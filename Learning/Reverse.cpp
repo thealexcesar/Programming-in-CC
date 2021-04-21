@@ -6,7 +6,7 @@
 int main(void)
 {
     int number, revert;
-    std::cout << "enter your number: \n";
+    std::cout << "enter your number: ";
     std::cin >> number;
 
     while (number != 0) {

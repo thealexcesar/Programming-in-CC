@@ -5,16 +5,16 @@
  */
 int main(void)
 {
-    int number, reverse;
+    int numbers, reverse;
     printf("Enter your number: ");
-    scanf("%i", &number);
+    scanf("%i", &numbers);
 
     do {
-        reverse = number % 10;
+        reverse = numbers % 10;
         printf("%i", reverse);
-        number /= 10;
+        numbers /= 10;
     }
-    while (number != 0);
-
-    printf("\n");
+    while (numbers != 0);
+    
+    puts("");
 }
