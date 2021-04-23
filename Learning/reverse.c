@@ -13,7 +13,7 @@ int main(void)
         printf("%i", reverse);
         numbers /= 10;
     }
-    while (numbers != 0);
+    while (numbers > 0);
     
     puts("");
 }
