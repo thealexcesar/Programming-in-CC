@@ -1,10 +1,11 @@
 #include <stdio.h>
-#include <unistd.h>
-
+// Error
 int main(void)
 {
     int n;
-    scanf("%i", n);
+    printf("Prompt: ");
+    scanf("%i", &n);
+
     while (n != 1) {
         printf("%i", n);
         if (n % 2 == 0) {
@@ -13,6 +14,6 @@ int main(void)
         else {
             n *= 3 + 1;
         }
-        printf("%i", n );
+        printf("%i", n);
     }
 }
