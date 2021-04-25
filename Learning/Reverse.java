@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 public class Reverse {
 /**
- * @param reverse 
- * @return right to left
+ * @param reverse.
+ * @return right to left.
  */
  public void Log(String s) {
      System.out.print(s);

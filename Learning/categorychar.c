@@ -1,7 +1,5 @@
 #include <stdio.h>
-/**
- * @param c @return categorize a single char.
- */
+// Categorizes a single char.
 int main(void)
 {
     char c;

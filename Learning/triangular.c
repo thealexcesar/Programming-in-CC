@@ -1,6 +1,8 @@
 #include <stdio.h>
 /**
- * @return Triangular Number
+ * Computes the triangular Number
+ * @param n = n*(n+1)/2.
+  * @return triangularN.
  */
 int main(void)
 {

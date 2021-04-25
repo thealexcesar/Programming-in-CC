@@ -1,5 +1,9 @@
 #include <stdio.h>
-
+/**
+ * Computes the absolute value of a number.
+ * @param number
+ * @return number *(-1).S
+ */
 int main(void)
 {
     int number;

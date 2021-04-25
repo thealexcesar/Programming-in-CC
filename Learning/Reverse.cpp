@@ -1,7 +1,7 @@
 #include <iostream>
 /**
  * @param revert
- * @return right to left
+ * @return right to left.
  */
 int main(void)
 {
