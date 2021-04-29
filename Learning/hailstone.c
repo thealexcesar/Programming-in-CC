@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * Compute a Hailstone sequence, if even: n/2 else 3n+1.
+ * Compute a Hailstone sequence, if even = n/2 else = 3n+1.
  * @param n Starting number for sequence. Assumes n > 0.
  * @return Hailstone sequence starting with n and ending with 1.
  */

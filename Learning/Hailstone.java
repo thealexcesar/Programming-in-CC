@@ -6,7 +6,7 @@ import java.util.Scanner;
  */
 public class Hailstone {
     public static void main(String[] args) {
-        System.out.print("Type a number: ");
+        System.out.print("Type a number, " + args[0] + ": ");
         Scanner input = new Scanner(System.in);
         int n = input.nextInt();
         
