@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
  * computes whether the chosen year is leap.
- * @param rem calculates if divisible.
- * @return Leap or not leap.
+ * @code rem @return remaindercalculates if divisible.
+ * @c Leap or not leap.
   */
 int main(void)
 {

@@ -3,6 +3,7 @@
 * Program to convert a positive integer.
 * @return Hexadecimal, octal, or binary.
 * @code{do} Get the number and the base.  
+* @c linear_arrays.
  */
 int main(void)
 {

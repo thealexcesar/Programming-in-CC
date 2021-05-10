@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * @param reverse @return right to left
+ * @c program to reverse numbers.
+ * @return right to left
  */
 int main(void)
 {
