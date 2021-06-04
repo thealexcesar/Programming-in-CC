@@ -12,8 +12,7 @@ int main(void)
     return EXIT_SUCCESS; // or return 0;
 }
 
-int getValue() 
-{
+int getValue() {
     std::cout << "Enter an integer: ";
     int input{};
     std::cin >> input;
