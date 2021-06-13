@@ -1,1 +1,1 @@
-# Programming in C, C++ and C#
+# Programming in C and C++ 

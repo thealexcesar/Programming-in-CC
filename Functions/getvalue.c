@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * get-value() @return int.
- * result() @return void with @param n integer 
+ * get_value() @return int.
+ * result() @return void with @arg n integer 
  */
 int get_value();
 void result();
