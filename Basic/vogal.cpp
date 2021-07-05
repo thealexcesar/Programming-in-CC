@@ -9,12 +9,12 @@ int main(void)
 {
     int a{}, e{}, i{}, o{}, u{};
     string s{};
-    std::cout << "Type a word: ";
+    std::cout << "Type your word: ";
     std::cin >> s;
 
     int s_len = s.length();
     for (int i = 0; i < s_len; i++) {
-        switch(s[i]) {
+        switch (s[i]) {
             case 'a' : a++; break;
             case 'e' : e++; break;
             case 'i' : i++; break;
